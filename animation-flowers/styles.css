@@ -16,10 +16,10 @@ body {
 }
 .greetings {
   letter-spacing: -5px;
-  font-size: 6rem;
+  font-size: 2.4rem;
   font-weight: 900;
   text-align: center;
-  line-height: 80px;
+  line-height: 40px;
 }
 
 .greetings > div > span {
@@ -51,14 +51,14 @@ body {
 }
 
 .description {
-  font-size: 1.5rem;
+  font-size: 0.8rem;
   margin-bottom: 20px;
 }
 
 .button a {
   display: flex;
   text-decoration: none;
-  font-size: 1rem;
+  font-size: 0.6rem;
   color: #111;
 }
 
@@ -86,7 +86,7 @@ body {
 .button button {
   background-color: purple;
   border: none;
-  padding: 10px 20px;
+  padding: 6px 18px;
   font-size: 18px;
   cursor: pointer;
   position: relative;
