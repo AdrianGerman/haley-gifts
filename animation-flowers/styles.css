@@ -18,10 +18,10 @@ body {
 
 .greetings {
   letter-spacing: -5px;
-  font-size: 2.4rem;
+  font-size: 4rem;
   font-weight: 900;
   text-align: center;
-  line-height: 40px;
+  line-height: 60px;
 }
 
 .greetings > div > span {
@@ -42,7 +42,6 @@ body {
   }
 }
 
-/* Ajustar delays en secuencia continua */
 .greetings > div:nth-child(1) > span:nth-child(1) {
   animation-delay: 0s;
 }
@@ -83,7 +82,7 @@ body {
 }
 
 .description {
-  font-size: 0.8rem;
+  font-size: 1.5rem;
   margin-bottom: 20px;
   color: purple;
 }
@@ -91,7 +90,7 @@ body {
 .button a {
   display: flex;
   text-decoration: none;
-  font-size: 0.6rem;
+  font-size: 1rem;
   color: #111;
 }
 
